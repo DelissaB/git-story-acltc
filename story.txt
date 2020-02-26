@@ -1,0 +1,4 @@
+puts "Hi my name is Lisa"
+puts "I really like things that sparkle"
+puts "Glitter is really pretty!" 
+puts "Beyonce likes glitter too!"
